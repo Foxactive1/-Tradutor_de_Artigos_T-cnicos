@@ -1,1 +1,1 @@
-# -Tradutor_de_Artigos_T-cnicos
+# -Tradutor_de_Artigos_Tecnicos
